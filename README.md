@@ -43,3 +43,6 @@ Biết kết nối front-end và back-end thông qua API, xử lý dữ liệu v
 Học được cách tự phát hiện và khắc phục lỗi cấu hình, như lỗi không truy cập được web hoặc API không phản hồi.
 
 Bài thực hành giúp em nắm vững quy trình triển khai một ứng dụng web cơ bản với đầy đủ ba tầng: giao diện – xử lý – dữ liệu.
+
+tham khảo chat 
+# https://chatgpt.com/c/68fb57bc-d36c-8320-a70c-ff05ba71bc41
