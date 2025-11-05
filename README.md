@@ -1,5 +1,11 @@
 # baitap2wed
 wed2
+1 <img width="1280" height="720" alt="{BB7D5014-C51E-4425-8C46-86DFF98E4287}" src="https://github.com/user-attachments/assets/a0e3f51f-611c-48a9-b56e-b0ed72adc998" />
+<img width="926" height="517" alt="{09DBDDC1-818B-4480-910C-94B7E5AE618F}" src="https://github.com/user-attachments/assets/de1d0d42-beab-4f64-81e5-377fee7afab6" />
+<img width="1275" height="720" alt="{802A885B-025D-49CB-820C-C02A567B68C8}" src="https://github.com/user-attachments/assets/396fe2e3-80e0-4784-90ca-21ba524bdfaf" />
+<img width="1150" height="605" alt="{69E80E05-B2FC-41CA-9637-FA474BAAABFD}" src="https://github.com/user-attachments/assets/9e8f1388-2199-4e81-b26c-3766e221cc2c" />
+<img width="1159" height="619" alt="{A2D1B9C7-20E5-4509-8FB5-90C65C363168}" src="https://github.com/user-attachments/assets/c2b121b5-1919-46fc-8715-b552dc2de6b8" />
+
 1. Quá trình cài đặt phần mềm và thư viện
 Trong quá trình làm, em đã cài đặt và cấu hình được đầy đủ các phần mềm cần thiết gồm Node.js, Node-RED, SQL Server và Apache24.
 Ban đầu gặp một số lỗi như không truy cập được Node-RED, không mở được trang web hay lỗi “Access denied”, nhưng sau khi khởi động lại dịch vụ (restart Node-RED, Apache, SQL Server) và kiểm tra lại port 1880 và 80, em đã khắc phục được.
